@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👾 Hey 👾
 
-<!--
-**8bit-curser/8bit-curser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently 💼 working @ [HummingHomes](https://www.humminghomes.com) as a software engineer and trying to become
+a jack of all trades when it comes to Backend/Data/Infrastructure.
 
-Here are some ideas to get you started:
+#### My favorite tools 🧰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `.py`
+- `.js`
+- `.sol`
+- `.rs` 
+
+#### Things I am interested in 🧐
+
+I am sucker for any horror related content 🧟‍♂️ as well playing d&D 🎲 and getting involved with privacy and web3 👁.
