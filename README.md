@@ -9,6 +9,7 @@ a jack of all trades when it comes to Backend/Data/Infrastructure.
 - `.js`
 - `.sol`
 - `.rs` 
+- `.rb`
 
 #### Things I am interested in 🧐
 
